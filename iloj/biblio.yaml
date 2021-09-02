@@ -1,0 +1,546 @@
+---
+
+references:
+# Libroj
+  - id: CarolinEmcke2017
+    type: book
+    author:
+    - family: Carolin
+      given: Emcke
+    # - family: Crick
+    #   given: F. H. C.
+    issued:
+      date-parts:
+      - - 2017
+        # - 4
+        # - 25
+    title: 'Contra el odio, Un alegato en defensa de la pluralidad de pensamiento, la tolerancia y la libertad'
+    title-short: Gegen den Hass
+    container-title: Taurus, EPUB
+    # volume: 171
+    # issue: 4356
+    page: 11-12
+    # DOI: 10.1038/171737a0
+    ISBN: 978-84-306-1884-2
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+  - id: jhonroberto2020
+    type: book
+    author:
+    - family: Jhon
+      given: Roberto
+    # - family: Crick
+    #   given: F. H. C.
+    issued:
+      date-parts:
+      - - 2020
+        # - 4
+        # - 25
+    title: 'El procesamiento lingüístico de textos de opinión'
+    title-short: Lexicografia, lingüística de corpus y computacional
+    container-title: Instituto Caro y Cuervo, EPUB
+    # volume: 171
+    # issue: 4356
+    page: 11-12
+    # DOI: 10.1038/171737a0
+    ISBN: 978-958-611-392-2
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+# Tesis
+  - id: Lukaskunc2020
+    type: thesis
+    author:
+    - family: Lucas
+      given: Kunc
+    - family: Manuel
+      given: Saravia
+    issued:
+      date-parts:
+      - - 2019
+        # - 4
+        # - 25
+    title: 'Identificación de Discurso de Odio en Redes Sociales'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Tesis de grado, UNIR CAMBIAR
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    # ISBN: 
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+  - id: PabloFelipe2020
+    type: thesis
+    author:
+    - family: Pablo
+      given: Felipe
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2020
+        # - 4
+        # - 25
+    title: 'Detección de discurso de odio en redes sociales'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Tesis de grado, Universidad del País Vasco
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+  - id: alejandroperez2020
+    type: thesis
+    author:
+    - family: Alejandro
+      given: Perez
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2020
+        # - 4
+        # - 25
+    title: 'Detección del discurso de odio en Twitter'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Tesis de grado, Universidad Politécnica de Valencia
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+  - id: josemartinez2017
+    type: thesis
+    author:
+    - family: Jose
+      given: Martinez
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2017
+        # - 4
+        # - 25
+    title: 'Minería de opiniones mediante análisis de sentimientos y extracción de conceptos en Twitter'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Tesis de grado, Universidad Complutense de Madrid
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+  - id: lagocollarte2020
+    type: thesis
+    author:
+    - family: Lago
+      given: Collarte
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2020
+        # - 4
+        # - 25
+    title: 'Procesamiento del lenguaje natural con BERT: Análisis de sentimientos en tuits'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Tesis de grado, Universidad Carlos III de Madrid
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+# Articulo
+  - id: florplaza2020
+    type: article-journal
+    author:
+    - family: Flor
+      given: Plaza
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2020
+        # - 4
+        # - 25
+    title: 'La Clasificación de Emociones y su Aplicación a la Detección del Lenguaje Ofensivo'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Departamento de Informática, Escuela Politécnica Superior de Jaén, Universidad de Jaén
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: http://ceur-ws.org/Vol-2802/paper3.pdf
+    language: es
+  - id: laurabustos2019
+    type: article-journal
+    author:
+    - family: Laura
+      given: Bustos
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2019
+        # - 4
+        # - 25
+    title: 'Discursos de odio: una epidemia que se propaga en la red. Estado de la cuestión sobre el racismo y la xenofobia en las redes sociales'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Mediaciones Sociales, Ediciones Complutense
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    DOI: 10.5209/MESO.64527
+    # URL: http://dx.doi.org/10.5209/MESO.64527
+    language: es
+  - id: lucianadabiau2013
+    type: article-journal
+    author:
+    - family: Luciana
+      given: Dubiau
+    - family: Juan
+      given: Ale
+    issued:
+      date-parts:
+      - - 2013
+        # - 4
+        # - 25
+    title: 'Análisis de Sentimientos sobre un Corpus en Español: Experimentación con un Caso de Estudio'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Facultad de Ingeniería, Universidad de Buenos Aires
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # ISBN: 1850-2784
+    # DOI: 10.5209/MESO.64527
+    # URL: http://dx.doi.org/10.5209/MESO.64527
+    language: es
+  - id: luisRuano2018
+    type: article-journal
+    author:
+    - family: Luis
+      given: Ruano
+    - family: Juan
+      given: Lopez
+    - family: Jonathan
+      given: Mosquera
+    issued:
+      date-parts:
+      - - 2018
+        # - 4
+        # - 25
+    title: 'La política y lo político en Twitter: Análisis del discurso de los candidatos presidenciales de Colombia'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Revista Ibérica de Sistemas y Tecnologías de Información
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # ISBN: 1850-2784
+    DOI: 10.17013/risti.28.57–71
+    # URL: http://dx.doi.org/10.5209/MESO.64527
+    language: es
+  - id: pablogamallo2012
+    type: article-journal
+    author:
+    - family: Pablo
+      given: Gamallo
+    - family: Marcos
+      given: Garcia
+    issued:
+      date-parts:
+      - - 2012
+        # - 4
+        # - 25
+    title: 'Técnicas de Procesamiento del Lenguaje Natural en la Recuperación de Información'
+    # title-short: Molecular structure of nucleic acids
+    container-title: Centro de Investigación sobre Tecnoloxías da Lingua (CITIUS), Universidade de Santiago de Compostela
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # ISBN: 1850-2784
+    # DOI: 10.17013/risti.28.57–71
+    # URL: http://dx.doi.org/10.5209/MESO.64527
+    language: es
+# Revision libro
+  - id: manuelaguilar2019
+    type: review-book
+    author:
+    - family: Manuel
+      given: Aguilar
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2019
+        # - 4
+        # - 25
+    title: 'El discurso del odio (reseña)'
+    title-short: Universidad Nacional de Colombia
+    container-title: Desde el Jardín de Freud 19
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    DOI: 10.15446/djf.n19.76731
+    # URL: https://www.nature.com/articles/171737a0
+    language: es
+# links
+  - id: googlenlp
+    type: webpage
+    author:
+    - family: Google NLP
+      given: NLP
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2020
+        # - 4
+        # - 25
+    title: 'Documentación de Cloud Natural Language'
+    title-short: Natural Language Processing
+    container-title: Cloud Natural Language
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://research.google/research-areas/natural-language-processing/
+    language: es
+  - id: RAEOdio
+    type: entry-dictionary
+    author:
+    - family: REAL ACADEMIA ESPAÑOLA
+      given: Diccionario de la lengua española, 23.ª ed.
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2021
+        # - 4
+        # - 25
+    title: 'odio'
+    # title-short: Natural Language AI - Google Cloud
+    container-title: Entrada
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://dle.rae.es/odio
+    language: es
+  - id: cerosetentabodega2020
+    type: post-weblog
+    author:
+    - family: cerosetenta.uniandes.edu.co
+      given: La Liga Contra el Silencio
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2020
+        # - 4
+        # - 25
+    title: 'En las entrañas de una ‘bodeguita’ uribista'
+    # title-short: Natural Language AI - Google Cloud
+    container-title: Entrada
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://cerosetenta.uniandes.edu.co/en-las-entranas-de-una-bodeguita-uribista/
+    language: es
+  - id: flip2017
+    type: post-weblog
+    author:
+    - family: flip.org.co
+      given: Fundación para la libertad de prensa
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2017
+        # - 4
+        # - 25
+    title: 'Álvaro Uribe Vélez estigmatiza a periodista de Noticias Uno'
+    # title-short: Natural Language AI - Google Cloud
+    container-title: Entrada
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://flip.org.co/index.php/es/informacion/pronunciamientos/item/2092-alvaro-uribe-velez-estigmatiza-a-periodista-de-noticias-uno
+    language: es
+  - id: elpaisprotestas2021
+    type: article-newspaper
+    author:
+    - family: Santiago
+      given: Torrado
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2021
+        # - 4
+        # - 25
+    title: 'Álvaro Uribe llama al Ejército a que utilice las armas en las protestas en Colombia'
+    # title-short: Natural Language AI - Google Cloud
+    container-title: Ediciones El Pais
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://elpais.com/internacional/2021-04-30/alvaro-uribe-llama-al-ejercito-a-que-utilice-las-armas-en-las-protestas-en-colombia.html
+    language: es
+  - id: googleBERT
+    type: webpage
+    author:
+    - family: Devlin
+      given: Jacob
+    - family: Ming-Wei 
+      given: Chang
+    - family: Kenton
+      given: Lee
+    - family: Kristina
+      given: Toutanova
+    issued:
+      date-parts:
+      - - 2018
+        # - 4
+        # - 25
+    title: 'Bert: Pre-training of deep bidirectional transformers for language understanding'
+    title-short: Google BERT
+    container-title: Natural Language Processing
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://arxiv.org/abs/1810.04805
+    language: en
+  - id: servicioIBM
+    type: webpage
+    author:
+    - family: IBM
+      given: INC
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2021
+        # - 4
+        # - 25
+    title: 'Watson Natural Language Understanding'
+    title-short: The natural language processing (NLP) service for advanced text analytics
+    container-title: Watson
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://www.ibm.com/cloud/watson-natural-language-understanding
+    language: en
+  - id: GoogleCloudPrezo
+    type: webpage
+    author:
+    - family: Google Cloud
+      given: Service
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2021
+        # - 4
+        # - 25
+    title: 'Costos de Cloud Natural Language'
+    title-short: Natural Language Processing
+    container-title: Cloud Natural Language
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://cloud.google.com/natural-language/pricing
+    language: en
+  - id: usotic2021
+    type: webpage
+    author:
+    - family: Clay
+      given: Alvino
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2021
+        # - 4
+        # - 25
+    title: 'Estadísticas de la situación digital de Colombia en el 2020-2021'
+    title-short: Entrada
+    container-title: branch.com.co
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2020-2021/
+    language: es
+  - id: elpaisplebiscito2016
+    type: article-newspaper
+    author:
+    - family: El Pais
+      given: Periodico de Cali
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2016
+        # - 4
+        # - 25
+    title: 'Las polémicas revelaciones de promotor del No sobre estrategia en el plebiscito'
+    # title-short: Natural Language AI - Google Cloud
+    container-title: El País S.A
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://www.elpais.com.co/proceso-de-paz/las-polemicas-revelaciones-de-promotor-del-no-sobre-estrategia-en-el-plebiscito.html
+    language: es
+  - id: wikisent
+    type: webpage
+    author:
+    - family: Wikipedia
+      given: Español
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2021
+        # - 4
+        # - 25
+    title: 'Análisis de sentimiento'
+    title-short: minería de opinión
+    container-title: Entrada
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://es.wikipedia.org/wiki/An%C3%A1lisis_de_sentimiento
+    language: es
+  - id: forbesfake2021
+    type: article-magazine
+    author:
+    - family: Fobes
+      given: Staff
+    # - family: Manuel
+    #   given: Saravia
+    issued:
+      date-parts:
+      - - 2021
+        # - 4
+        # - 25
+    title: 'Facebook emprende más medidas contra fake news en su plataforma'
+    # title-short: Natural Language AI - Google Cloud
+    container-title: Forbes
+    # volume: 171
+    # issue: 4356
+    # page: 737-738
+    # DOI: 10.1038/171737a0
+    URL: https://elpais.com/internacional/2021-04-30/alvaro-uribe-llama-al-ejercito-a-que-utilice-las-armas-en-las-protestas-en-colombia.html
+    language: es
+---
