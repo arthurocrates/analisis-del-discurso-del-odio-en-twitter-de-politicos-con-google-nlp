@@ -80,7 +80,7 @@ institucionales, etc. -->
 > [!IMPORTANT]
 > "Creo que el odio es un sentimiento que sólo puede existir en ausencia de toda inteligencia" decía Tennessee Williams.
 
-Dentro de las emociones, el odio es algo que podemos percibir con a simple vista, ya sea por el vocabulario, la sintaxis usada o simplemente su intensidad que brota de manera imperativa. Dentro de las personas que se inmiscuyen en el ejercicio de la política, el discurso es la herramienta con la que llegan a sus electores y es el momento en donde podemos ver cómo sus emociones se ven reflejadas en su relación con la gente y la democracia.
+Dentro de las emociones, el odio es algo que podemos percibir a simple vista, ya sea por el vocabulario, la sintaxis usada o simplemente su intensidad que brota de manera imperativa. Dentro de las personas que se inmiscuyen en el ejercicio de la política, el discurso es la herramienta con la que llegan a sus electores y es el momento en donde podemos ver cómo sus emociones se ven reflejadas en su relación con la gente y la democracia.
 
 Para un político lograr llegar a más personas es fundamental, ya que debe mantener la visibilidad de su trabajo político. En algunos casos vemos cómo algunos políticos aplican en sus discursos un lenguaje que no tiene nada que ver con el ejercicio de la política, sino que pretenden conglomerar a su electorado en emociones más que en ideas fundamentadas. Ahora bien, estos discursos ya no se presentan en momentos especiales o en plazas públicas con multitudes de seguidores esperando que el personaje político les de un mensaje profundo que los represente, hoy día los discursos se han reducido a una comunicación de unos cuantos caracteres en fragmentos que condensan las ideas de su ejercicio político y representativo.
 
