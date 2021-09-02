@@ -525,7 +525,7 @@ references:
   - id: forbesfake2021
     type: article-magazine
     author:
-    - family: Fobes
+    - family: Forbes
       given: Staff
     # - family: Manuel
     #   given: Saravia
