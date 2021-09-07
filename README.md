@@ -371,7 +371,7 @@ la conclusion es...
 
 ## Anexos
 
-Los anexos de codigo se encuentran en un laboratorio en Google Colab para la ejecucion directa sobre la herramienta sin necesidad de instalar software o paquetes adecionales, ademas de un navegador web.
+Los anexos de codigo se encuentran en un laboratorio en Google Colab para la ejecucion directa sobre la herramienta sin necesidad de instalar software o paquetes adecionales, simplemente es necesario un navegador y conexion a internet.
 
 https://colab.research.google.com/drive/1xYhddBu0KH-LnD99fSLjJrsfAgW6QHFl#scrollTo=iBP9LMST6Dxz
 
@@ -388,14 +388,36 @@ Para lograr este análisis entonces requerimos los siguientes pasos:
 
 - Vamos a twitter y realizamos una búsqueda avanzada definiendo los parámetros de usuario y rango de tiempo. Y copiamos esa URL.
 - Ingresamos a https://phantombuster.com/ y nos registramos.
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at14.58.15.png)
+
 - Buscamos en el menú el servicio de scraping de Twitter o los "phantoms" de Twitter y buscamos el que indique "Exportar busqueda de Twitter" y lo seleccionamos
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at14.58.31.png)
+
 - Conectamos nuestra cuenta de Twitter con los pasos guiados de la plataforma.
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at14.58.45.png)
+
 - En la siguiente pantalla colocamos la URL de la búsqueda en Twitter.
-- En la siguiente pantalla definimos cantidad de resultados a scrapear, podemos colocar unos 10000 tweets.
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at14.58.59.png)
+
+- En la siguiente pantalla definimos cantidad de resultados a scrapear, podemos colocar unos 9999 tweets.
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at14.59.13.png)
+
 - En la siguiente pantalla seleccionamos que la ejecución del scrapeo se realizará de manera manual.
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at14.59.26.png)
+
 - En la última pantalla vemos el botón de Lanzar, le damos clic y el scrapeo iniciara.
 
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at14.59.39.png)
+
 Al finalizar el proceso la plataforma nos proporciona un archivo results.csv y results.json con todos los tweets que aparecen en esa búsqueda que hicimos en twitter.
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at15.00.51.png)
 
 #### Limpieza del dataset
 
