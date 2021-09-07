@@ -419,6 +419,11 @@ Al finalizar el proceso la plataforma nos proporciona un archivo results.csv y r
 
 ![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at15.00.51.png)
 
+
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at15.01.03.png)
+
+
+
 #### Limpieza del dataset
 
 El archivo results.csv contiene datos que no son relevantes para hacer el análisis como fecha, usuario, ID del Tweet, link, etc. Entonces tenemos que dejar solo los campos que nos interesan para procesar, que en este caso son es el texto que se publicó como mensaje.
@@ -540,7 +545,7 @@ Enlace al lab
 <!-- Documentar el proceso
 
 Instrucciones para la redacción y elaboración del TFE
-Máster Universitario en Humanidades Digitales 5
+Máster Universitario en Humanidades Digitales
 
 © Universidad Internacional de La Rioja (UNIR)[^1]
 
@@ -548,11 +553,6 @@ Máster Universitario en Humanidades Digitales 5
 
 elementos que complementan o amplían la información del trabajo. Los anexos se
 diferencian empleando una letra (Anexo A, Anexo B...). [@PabloFelipe2020]
-
-ejemplo de link [@googlenlp]
-
-
-
 
 >## Notas
 
