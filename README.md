@@ -452,6 +452,8 @@ https://codelabs.developers.google.com/codelabs/cloud-natural-language-python3#1
 
 - Ingresar a la consola de Google Cloud https://console.cloud.google.com/ allí se solicitara el acceso a la API
 
+
+
 - Nos dirigimos al apartado de APIs y Servicios https://console.cloud.google.com/apis/dashboard
 
 - Seleccinamos el servicio de procesamiento del lenguaje natural https://console.cloud.google.com/apis/library/language.googleapis.com y seleccionamos Habilitar
@@ -505,7 +507,7 @@ import os
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "apis-235522-7645678e7da.json" # Aquí va la ubicación y el nombre del archivo json
 ```
 
-- Ejecutamos el código 
+- Ejecutamos el código
 
 Vamos a la documentación del procesamiento del lenguaje natural de Google y tomamos un código de ejemplo. En este caso sera: Detectar sentimientos de una cadena de texto https://cloud.google.com/natural-language/docs/samples/language-quickstart#code-sample
 
