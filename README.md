@@ -438,7 +438,7 @@ Google Natural Language Procesing es un servicio de pago de modelos potentes y p
 
 ![Precios 2021 Google NLP](bildoj/Precios.png)
 
-#### Creando un Notebook para el análisis de NLP con Google AI
+### Creando un Notebook para el análisis de NLP con Google AI
 
 [@servicioIBM]
 
@@ -452,30 +452,64 @@ https://codelabs.developers.google.com/codelabs/cloud-natural-language-python3#1
 
 - Ingresar a la consola de Google Cloud https://console.cloud.google.com/ allí se solicitara el acceso a la API
 
-
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.08.36.png)
 
 - Nos dirigimos al apartado de APIs y Servicios https://console.cloud.google.com/apis/dashboard
 
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.08.56.png)
+
 - Seleccinamos el servicio de procesamiento del lenguaje natural https://console.cloud.google.com/apis/library/language.googleapis.com y seleccionamos Habilitar
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.09.21.png)
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.10.19.png)
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.10.34.png)
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.11.32.png)
 
 - En la siguiente pantalla nos dirigimos al apartado de Credenciales https://console.cloud.google.com/apis/api/language.googleapis.com/credentials
 
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.11.47.png)
+
 - Hacemos clic en crear credenciales y seleccionamos cuenta de servicio.
 
-- Le asignamos un nombre y hacemos clic en crear y continuar.
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.14.12.png)
 
-- Seleccionamos el rol básico propietario y hacemos clic en continuar.
+- Le asignamos un nombre, una descripcion y hacemos clic en continuar.
 
-- En el siguiente paso ingresamos la cuenta de correo de google con la que iniciamos sesión. y hacemos clic en aceptar.
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.38.05.png)
 
-- Nos devuelve a la pantalla anterior, allí seleccionamos la cuenta de servicio que acabamos de crear y vamos al apartado llaves.
+- Seleccionamos el rol básico propietario y hacemos clic en crear y continuar.
 
-- En el apartado llaves de la cuenta de servicio creada, hacemos clic en agregar llave y en la ventana emergente seleccionamos JSON. Finalmente hacemos clic en crear.
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.41.16.png)
 
-- Se descargara una llave que debe ser guardada celosamente por seguridad.
+- En la siguiente pantalla buscamos el rol de Desarrollador IA
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.41.58.png)
+
+- En la siguiente pantalla veremos la cuenta de servicio que acabamos de crear, le hacemos clic sobre ella.
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.42.37.png)
+
+- En la siguiente pantalla vamos al apartado de llaves
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.42.57.png)
+
+- Hacemos cilc en el apartado agregar llave y luego en crear una nueva llave.
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.43.11.png)
+
+- Seleccionamos el tipo de llave JSON y finalmente hacemos clic en crear.
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.43.22.png)
+
+- La llave se descarga automaticamente y nos muestra un mensaje en pantalla. Esta llave debe ser guardada celosamente por seguridad.
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.43.40.png)
 
 
-#### Desarrollo del notebook para el análisis de sentimientos con Google NLP
+### Desarrollo del notebook para el análisis de sentimientos con Google NLP
 
 https://codelabs.developers.google.com/codelabs/cloud-natural-language-python3
 
@@ -535,6 +569,16 @@ Ejecutamos y debemos ver un resultado como este:
 Text: Apoyemos el derecho de soldados y policias de utilizar sus armas para defender su integridad y para defender a las personas y bienes de la accion criminal del terrorismo vandalico
 Sentiment: 0.10000000149011612, 0.10000000149011612
 ```
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.45.50.png)
+
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.46.15.png)
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.46.30.png)
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.51.58.png)
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.52.22.png)
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.52.38.png)
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.53.02.png)
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.53.16.png)
 
 ### 4.2 Análisis de sentimientos con Google Cloud Natural Language API (Resultados)
 
