@@ -166,7 +166,7 @@ Otro problema que deriva toda esta práctica sistemática, tiene que ver con la 
 
 ¿Qué es la incitación al odio en las redes sociales? Las plataformas de las redes sociales son la clave de lo que es la incitación al odio, por desgracia. Y aunque hay muchas formas positivas en las que Internet puede ayudarnos a comunicarnos con los demás, el problema reside en aquellos que deciden utilizarlo para difundir su odio. Es necesario hoy dia ser cuidadoso al momento de ser un activista en linea ya que las consecuencias pueden ser mortales. [@alejandroperez2020]
 
----
+<!-- AF -->
 
 Muchos estudios han ahondado mucho más en la definición de esta cuestión, pero en este caso nos centraremos en la definición ya expuesta, para detectar en los mensajes discursivos de los personajes representativos de la política colombiana generan de manera visceral en sus redes sociales. [@Lukaskunc2020]
 
@@ -180,14 +180,14 @@ A simple vista, podemos ver que no se usan palabras que tengan referencia a la c
 
 En este caso podríamos determinar que el discurso del odio es tácito, pero más adelante vamos a pedirle a los algoritmos de NLP que analicen este texto y nos digan si la conclusión apriori es verdadera, falsa o en qué medida podemos encontrar este tipo de valores.
 
-Hay que aclarar que este estudio no ahondará en temas relacionados con la libre expresión, ya que sale del marco del marco de investigación el cual solo se propone establecer el valor del discurso con valores en magnitudes de escala numérica y de acuerdo a la puntuación serán positivos, neutros o negativos de los discursos seleccionados.
+Hay que aclarar que este estudio no ahondará en temas relacionados con la libre expresión, ya que sale del marco de investigación el cual solo se propone establecer el valor del discurso con valores y magnitudes de escala numérica y de acuerdo a la puntuación serán positivos, neutros o negativos de los discursos seleccionados.
 
 <!-- Wiki: La semántica es el estudio del significado atribuible a expresiones sintácticamente bien formadas
 
 Estos discursos pueden difundirse de forma oral, escrita, audiovisual, en los medios de comunicación o en internet y buscan apelar a la emoción más que a la razón y resaltar cierta actitud de dominio de uno sobre otro y de esta forma silenciar a determinados grupos sociales. Bustos Martínez, L. et al. (2019). “Discursos de odio: una epidemia que se propaga en la red. Estado de la cuestión sobre el racismo y la xenofobia en las redes sociales”, en Mediaciones Sociales 19, 25-42. https://revistas.ucm.es/index.php/MESO/article/download/64527/4564456551208 -->
 
 
----
+<!-- AF -->
 
 ## 3. Capítulo II
 
@@ -220,8 +220,6 @@ Básicamente se programa un algoritmo para que lea cada frase de un texto. El pr
 Después, se vuelven a buscar en los tokens las palabras que se han omitido durante el análisis. También se buscan los significados que coinciden con los tokens. Si este procedimiento de concordancia tiene éxito, el resultado es una sola palabra que contiene todos los tokens requeridos. El software almacena esta palabra en la memoria y realiza las siguientes búsquedas utilizando esta palabra almacenada. El Procesamiento del Lenguaje Natural no es más que un conjunto de algoritmos que permiten a un ordenador reconocer patrones en datos de texto.
 
 La técnica de tokenización es implementada por un programador que decide un formato de frase y luego implementa una técnica de tokenización que produce los tokens adecuados. A continuación, los tokens se concatenan para formar una única entidad. El Procesamiento del Lenguaje Natural utiliza un vocabulario muy amplio que se organiza cuidadosamente en un marco, que consiste en una gramática de construcción de frases y una técnica de tokenización. Con la ayuda de un tokenizador, podemos transformar grandes cantidades de datos de texto no organizados en una forma significativa. El tokenizador de palabras es una parte muy importante de la NLP ya que es la manera en que se estructura un texto de manera numérica y matemática que generan una matriz. [@pablogamallo2012]
-
-<!-- El proceso de NLP "congela" estos elementos léxicos para que podamos analizar una frase determinada como una unidad. Por ejemplo, la palabra "dog" en inglés puede significar varias cosas, dependiendo de si va antes de "the", "at", "in" o "down". En alemán, sin embargo, la palabra "dog" sólo significa "un perro propiedad de alguien"; "un perro en Alemania" sería inaceptable. Necesitamos un sistema de tokenización especial para lenguas como el alemán. Por eso tenemos la omnipresente "zu-frase" en inglés, una contracción de "zu-verb". -->
 
 Un tokenizador de expresiones regulares es una herramienta de NLP que extrae información de una frase, identificando las partes de la oración asociadas a tokens específicos. El tokenizador de expresiones regulares extrae palabras de una cadena de textos y frases, encadenadas en varios contextos. Podemos pensar en cada token como una expresión regular: un conjunto de posibles tokens asociados a un contexto concreto. Algunos expertos del NLP hablan que uno de los objetivos de la lingüística moderna es comprender todas las estructuras de expresiones regulares de que disponemos, ya que nos permitirá "crear un lenguaje que no está sujeto a reglas gramaticales".
 
@@ -325,6 +323,8 @@ En este caso, se hará uso de la herramienta Phantombuster, la cual se especiali
 
 ## 4. Capítulo III
 
+<!-- CONTINUAR AQUI -->
+
 ### 4.1 Seleccion de personajes y análisis de sus discursos
 
 Ahora que conocemos el contexto político, las bases teóricas de lo que conocemos como odio, cómo funciona el NLP, cómo funciona el análisis de sentimientos y cuales son las técnicas para extraer datos de twitter. Ahora sí procederemos a aplicar todo esto en un proceso de extracción y análisis de los tweets que se encuentran en las cuentas de las cuentas que nos proporcione la herramienta XXXXXXX para determinar cual es tipo de sentimientos en el uso de lenguaje que exponen en sus publicaciones y cual es la tendencia de estos sentimientos, siendo estos positivos, neutrales o negativos. De esta forma nos acercaremos más a una conclusión sobre las posibles intenciones discursivas con el uso que hacen del lenguaje.
@@ -348,6 +348,9 @@ Todos estos personajes hacen uso de las redes sociales como una plataforma discu
 Finalmente podemos realizar el analisis de cada uno de los datasets que hemos extraido, en la seccion de anexos se realizara paso a paso todo el procedimiento, tambien se podra encontrar este laboratorio listo para su ejecucion en Google Collab y en Github y Zenodo para su réplica y mejora por otros investigadores con más experiencia tecnica. Se puede acceder a ellos a través de los siguientes enlace: [https://github.com/arthurocrates/analisis-del-discurso-del-odio-en-twitter-de-politicos-con-google-nlp](https://github.com/arthurocrates/)
 
 Link Zenodo
+
+AQUI VA LA LIMPIEZA Y ANALISIS
+
 
 <!-- - Repase bien la documentación, hablar de cómo seleccionó el corpus, la razón, las limitaciones (si la API de Twitter limita a X, usted lo deberá decir, o explicar que, entre otras razones, la forma del corpus se debe a X Y Z)
 
@@ -432,7 +435,7 @@ Para lograr unos datos más legibles y efectivos vamos a limpiar el archivo con 
 
 Aunque el servicio de NLP de Google es capaz de detectar automáticamente estos tipos de datos no relevantes, por un ejercicio de buena práctica, es mejor ayudarle un poco para que los resultados sean mucho más legibles y exactos. El archivo final deberá contener en una fila un tweet con contenido relevante para el análisis.
 
-![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at15.01.03.png)
+![PhantomBuster1](bildoj/ScreenShot2021-09-07at13.47.59.png)
 
 ### Costos de acceso a la API de Google Cloud
 
@@ -524,6 +527,8 @@ Paso 2.
 
 ingresamos a Google Collab https://colab.research.google.com/
 
+- Subir el achivo de acceso a la API
+- 
 - Instalar paquetes necesarios para la ejecución
 
 Ejecutamos el comando que instala y actualiza la versión más reciente del servicio de procesamiento del lenguaje natural de Google.
@@ -579,13 +584,14 @@ Sentiment: 0.10000000149011612, 0.10000000149011612
 ![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.51.58.png)
 ![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.52.22.png)
 ![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.52.38.png)
-![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.53.02.png)
-![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.53.16.png)
+
 
 ### 4.2 Análisis de sentimientos con Google Cloud Natural Language API (Resultados)
 
 Enlace al lab
 
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.53.02.png)
+![Precios 2021 Google NLP](bildoj/Colab/ScreenShot2021-09-06at15.53.16.png)
 
 ## Referencias bibliográficas
 
