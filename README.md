@@ -432,6 +432,8 @@ Para lograr unos datos más legibles y efectivos vamos a limpiar el archivo con 
 
 Aunque el servicio de NLP de Google es capaz de detectar automáticamente estos tipos de datos no relevantes, por un ejercicio de buena práctica, es mejor ayudarle un poco para que los resultados sean mucho más legibles y exactos. El archivo final deberá contener en una fila un tweet con contenido relevante para el análisis.
 
+![PhantomBuster1](bildoj/Phantom/ScreenShot2021-09-06at15.01.03.png)
+
 ### Costos de acceso a la API de Google Cloud
 
 Google Natural Language Procesing es un servicio de pago de modelos potentes y previamente entrenados de ML que cuenta con costos por unidades según el volumen de texto a analizar, En su sitio web podemos ver las magnitudes y los precios, los cuales se miden por unidades, euivalentes a: 1 unidad = 1000 caracteres, esto incluyendo espacios en blanco y símbolos especiales. Los precios tienen una recurrencia mensual pero incluyen una capa gratuita de 5000 unidades. Para este análisis solo fue necesario usar la capa gratuita ya que se hizo un uso de XXXX unidades aproximadamente.
