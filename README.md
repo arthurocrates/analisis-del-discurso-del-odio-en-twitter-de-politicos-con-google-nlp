@@ -323,11 +323,9 @@ En este caso, se hará uso de la herramienta Phantombuster, la cual se especiali
 
 ## 4. Capítulo III
 
-<!-- CONTINUAR AQUI -->
-
 ### 4.1 Seleccion de personajes y análisis de sus discursos
 
-Ahora que conocemos el contexto político, las bases teóricas de lo que conocemos como odio, cómo funciona el NLP, cómo funciona el análisis de sentimientos y cuales son las técnicas para extraer datos de twitter. Ahora sí procederemos a aplicar todo esto en un proceso de extracción y análisis de los tweets que se encuentran en las cuentas de las cuentas que nos proporcione la herramienta XXXXXXX para determinar cual es tipo de sentimientos en el uso de lenguaje que exponen en sus publicaciones y cual es la tendencia de estos sentimientos, siendo estos positivos, neutrales o negativos. De esta forma nos acercaremos más a una conclusión sobre las posibles intenciones discursivas con el uso que hacen del lenguaje.
+Ahora que conocemos el contexto político, las bases teóricas de lo que conocemos como odio, cómo funciona el NLP, cómo funciona el análisis de sentimientos y cuales son las técnicas para extraer datos de twitter. Ahora sí procederemos a aplicar todo esto en un proceso de extracción y análisis de los tweets que se encuentran en las cuentas de las cuentas de los politicos colombianos afines al partido de gobierno con mas seguidores en twitter, con ello podemos determinar un mayor alcance de sus publicaciones en Twitter. Entonces podremos determinar cual es tipo de sentimientos en el uso de lenguaje que exponen en sus publicaciones y cual es la tendencia de estos sentimientos, siendo estos positivos, neutrales o negativos y las magnitudes con la cual estos son expuestos. De esta forma nos acercaremos más a una conclusión sobre las posibles intenciones discursivas con el uso que hacen del lenguaje.
 
 - Primero determinaremos cuales son los personajes más relevantes de acuerdo a su nivel de alcance en twitter y su ejercicio en un cargo de la política nacional colombiana.
 - En segundo lugar se construirá un dataset con los tweets de cada uno de los personajes, en el rango de tiempo en el cual hemos determinado que se desarrolló el paro nacional 2021.
@@ -335,15 +333,19 @@ Ahora que conocemos el contexto político, las bases teóricas de lo que conocem
 - Cuarto, se construirán gráficas que permitan visualizar los datos de manera más amigable.
 - Quinto, se procederá a realizar la ejecución del laboratorio y se observan los resultados para su posterior análisis.
 
-Se ha usado para medir sus niveles de alcance la herramienta **XXXXXXXXXX** con lo cual dejaremos que los números que ellos mismos alcanzan, sean el método de selección para este análisis.
+Para medir su cantidad de seguiders y sus niveles de alcance, se han usado los datos recolectados en http://www.twitter-colombia.com/categoria/politica con lo cual dejaremos que los números equivalentes a la cantidad de seguidores sean el método de selección para este análisis, ademas se seleccionaran deacuerdo a la declaracion de su partido, como a favor del partido de gobierno o en oposicion a este. En este caso la seleccion sera solo de los personajes que afines a las politicas del gobierno en curso.
 
-El primer personaje en nuestro análisis será AUV con más de 4.5 millones de seguidores en Twitter y que cuenta con niveles de replicación importantes dentro de su partido y sus seguidores, al momento de realizar publicaciones en su perfil. twitter de AUV
+El primer personaje en nuestro análisis será Alvaro Uribe Velez con más de 4.5 millones de seguidores en Twitter y que cuenta con niveles de replicación importantes dentro de su partido y sus seguidores, al momento de realizar publicaciones en su perfil. twitter de AUV
 
-El segundo personaje que tiene importancia dentro de este análisis es el presidente de la república de Colombia IDM. el cual cuenta con más de 2 millones de seguidores. Su relevancia está dada más por su posición política representativa que por los niveles de credibilidad y favorabilidad dentro de la población. Ya que tiene a disposición los canales de comunicación oficiales estatales. Twitter de IDM
+El segundo personaje que tiene importancia dentro de este análisis es el presidente de la república de Colombia Ivan Duque Marquez. el cual cuenta con más de 2 millones de seguidores. Su relevancia está dada más por su posición política representativa que por los niveles de credibilidad y favorabilidad dentro de la población. Ya que tiene a disposición los canales de comunicación oficiales estatales. Twitter de IDM
 
-Nuestro tercer personaje con el cual haremos un análisis será el senador ....
+Nuestro tercer personaje con el cual haremos un análisis será el miembro de la junta directiva del Partido Verde y exalcalde de Bogota Enrique Peñaloza, quien ha manifestado su apoyo al gobierno nacional en el contexto del paro nacional 2021 con mensajes como: "A Duque le tocó jóvenes con un año y medio sin clases presenciales, ni deporte, ni rumba, ni empleo por el covid- 19. Además, 1.8 migrantes, un gobierno en Venezuela de enemigo activo, apoyando a narco-guerrillas y vándalos; la mayor producción de coca jamás. Muy difícil."
+
+En total se pasaran por el servicio de NLP de Google un total de 
 
 Todos estos personajes hacen uso de las redes sociales como una plataforma discursiva donde exteriorizan sus emociones y divulgan sus afinidades ideológicas.
+
+<!-- CONTINUAR AQUI -->
 
 Finalmente podemos realizar el analisis de cada uno de los datasets que hemos extraido, en la seccion de anexos se realizara paso a paso todo el procedimiento, tambien se podra encontrar este laboratorio listo para su ejecucion en Google Collab y en Github y Zenodo para su réplica y mejora por otros investigadores con más experiencia tecnica. Se puede acceder a ellos a través de los siguientes enlace: [https://github.com/arthurocrates/analisis-del-discurso-del-odio-en-twitter-de-politicos-con-google-nlp](https://github.com/arthurocrates/)
 
