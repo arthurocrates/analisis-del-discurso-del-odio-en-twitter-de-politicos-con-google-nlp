@@ -335,24 +335,19 @@ Ahora que conocemos el contexto político, las bases teóricas de lo que conocem
 
 Para medir su cantidad de seguiders y sus niveles de alcance, se han usado los datos recolectados en http://www.twitter-colombia.com/categoria/politica con lo cual dejaremos que los números equivalentes a la cantidad de seguidores sean el método de selección para este análisis, ademas se seleccionaran deacuerdo a la declaracion de su partido, como a favor del partido de gobierno o en oposicion a este. En este caso la seleccion sera solo de entre la lista de los 50 politicos con mas seguidores afines a las politicas del gobierno en curso.
 
-El primer personaje en nuestro análisis será Alvaro Uribe Velez con más de 4.5 millones de seguidores en Twitter y que cuenta con niveles de replicación importantes dentro de su partido y sus seguidores, al momento de realizar publicaciones en su perfil. twitter de AUV
+El primer personaje en nuestro análisis será Alvaro Uribe Velez con más de 4.5 millones de seguidores en Twitter y que cuenta con niveles de replicación importantes dentro de su partido y sus seguidores, al momento de realizar publicaciones en su perfil. Sus posiciones han llevado a que sus seguideres tomen acciones de hecho para supuestamente ayudar a las fuerzas del orden en su trabajo de represion.
 
 El segundo personaje que tiene importancia dentro de este análisis es el presidente de la república de Colombia Ivan Duque Marquez. el cual cuenta con más de 2 millones de seguidores. Su relevancia está dada más por su posición política representativa que por los niveles de credibilidad y favorabilidad dentro de la población. Ya que tiene a disposición los canales de comunicación oficiales estatales. Twitter de IDM
 
-Nuestro tercer personaje con el cual haremos un análisis será el miembro de la junta directiva del Partido Verde y exalcalde de Bogota Enrique Peñaloza, quien ha manifestado su apoyo al gobierno nacional en el contexto del paro nacional 2021 con mensajes como: "A Duque le tocó jóvenes con un año y medio sin clases presenciales, ni deporte, ni rumba, ni empleo por el covid- 19. Además, 1.8 migrantes, un gobierno en Venezuela de enemigo activo, apoyando a narco-guerrillas y vándalos; la mayor producción de coca jamás. Muy difícil."
+Tambien por su relevancia en la ejecucion de las politicas de gobierno durante el periodo seleccionado, es importante incluir en este analisis a la vicepresidunta de la republica. Ella ha emprendido toda una campaña internacional para estigmatizar y desdibujar las peticiones de los manifestantes en las calles.
 
-vicepresidenta..........
+Nuestro siguiente personaje con el cual haremos un análisis será el miembro de la junta directiva del Partido Verde y exalcalde de Bogota Enrique Peñaloza, quien ha manifestado su apoyo al gobierno nacional en el contexto del paro nacional 2021 con mensajes como: "A Duque le tocó jóvenes con un año y medio sin clases presenciales, ni deporte, ni rumba, ni empleo por el covid- 19. Además, 1.8 migrantes, un gobierno en Venezuela de enemigo activo, apoyando a narco-guerrillas y vándalos; la mayor producción de coca jamás. Muy difícil."
 
-
-En total se pasaran por el servicio de NLP de Google un total de 
-
-Todos estos personajes hacen uso de las redes sociales como una plataforma discursiva donde exteriorizan sus emociones y divulgan sus afinidades ideológicas.
-
-<!-- CONTINUAR AQUI -->
+En total se pasaran por el servicio de NLP de Google un total de 17 personajes politicos. Todos estos personajes hacen uso de las redes sociales como una plataforma discursiva donde exteriorizan sus emociones y divulgan sus afinidades ideológicas y politicas.
 
 Finalmente podemos realizar el analisis de cada uno de los datasets que hemos extraido, en la seccion de anexos se realizara paso a paso todo el procedimiento, tambien se podra encontrar este laboratorio listo para su ejecucion en Google Collab y en Github y Zenodo para su réplica y mejora por otros investigadores con más experiencia tecnica. Se puede acceder a ellos a través de los siguientes enlace: [https://github.com/arthurocrates/analisis-del-discurso-del-odio-en-twitter-de-politicos-con-google-nlp](https://github.com/arthurocrates/)
 
-Link Zenodo
+<!-- CONTINUAR AQUI -->
 
 AQUI VA LA LIMPIEZA Y ANALISIS
 
