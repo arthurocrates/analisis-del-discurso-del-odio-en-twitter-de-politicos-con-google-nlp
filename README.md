@@ -333,13 +333,16 @@ Ahora que conocemos el contexto político, las bases teóricas de lo que conocem
 - Cuarto, se construirán gráficas que permitan visualizar los datos de manera más amigable.
 - Quinto, se procederá a realizar la ejecución del laboratorio y se observan los resultados para su posterior análisis.
 
-Para medir su cantidad de seguiders y sus niveles de alcance, se han usado los datos recolectados en http://www.twitter-colombia.com/categoria/politica con lo cual dejaremos que los números equivalentes a la cantidad de seguidores sean el método de selección para este análisis, ademas se seleccionaran deacuerdo a la declaracion de su partido, como a favor del partido de gobierno o en oposicion a este. En este caso la seleccion sera solo de los personajes que afines a las politicas del gobierno en curso.
+Para medir su cantidad de seguiders y sus niveles de alcance, se han usado los datos recolectados en http://www.twitter-colombia.com/categoria/politica con lo cual dejaremos que los números equivalentes a la cantidad de seguidores sean el método de selección para este análisis, ademas se seleccionaran deacuerdo a la declaracion de su partido, como a favor del partido de gobierno o en oposicion a este. En este caso la seleccion sera solo de entre la lista de los 50 politicos con mas seguidores afines a las politicas del gobierno en curso.
 
 El primer personaje en nuestro análisis será Alvaro Uribe Velez con más de 4.5 millones de seguidores en Twitter y que cuenta con niveles de replicación importantes dentro de su partido y sus seguidores, al momento de realizar publicaciones en su perfil. twitter de AUV
 
 El segundo personaje que tiene importancia dentro de este análisis es el presidente de la república de Colombia Ivan Duque Marquez. el cual cuenta con más de 2 millones de seguidores. Su relevancia está dada más por su posición política representativa que por los niveles de credibilidad y favorabilidad dentro de la población. Ya que tiene a disposición los canales de comunicación oficiales estatales. Twitter de IDM
 
 Nuestro tercer personaje con el cual haremos un análisis será el miembro de la junta directiva del Partido Verde y exalcalde de Bogota Enrique Peñaloza, quien ha manifestado su apoyo al gobierno nacional en el contexto del paro nacional 2021 con mensajes como: "A Duque le tocó jóvenes con un año y medio sin clases presenciales, ni deporte, ni rumba, ni empleo por el covid- 19. Además, 1.8 migrantes, un gobierno en Venezuela de enemigo activo, apoyando a narco-guerrillas y vándalos; la mayor producción de coca jamás. Muy difícil."
+
+vicepresidenta..........
+
 
 En total se pasaran por el servicio de NLP de Google un total de 
 
