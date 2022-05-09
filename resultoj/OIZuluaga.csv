@@ -1,4 +1,4 @@
-Trinos,sentimiento,magnitud
+Tweet,Sentiment Score,Sentiment Magnitude
 "La historia, según Petro. ", 0.10000000149011612 , 0.10000000149011612
 Hoy el país conoce la verdad: hicieron montaje para afectar campaña del 2014. , -0.20000000298023224 , 0.20000000298023224
 "Las investigaciones lo han señalado, lo hemos demostrado en materia judicial: lo del hacker fue obra de Santos, con complicidad de Montealegre y Echandía. ", 0.20000000298023224 , 0.20000000298023224
