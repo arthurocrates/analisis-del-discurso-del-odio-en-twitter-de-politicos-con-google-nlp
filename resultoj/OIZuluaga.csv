@@ -1,4 +1,4 @@
-Tweet,Sentiment Score,Sentiment Magnitude
+Tweets,Sentiment Score,Sentiment Magnitude
 "La historia, según Petro. ", 0.10000000149011612 , 0.10000000149011612
 Hoy el país conoce la verdad: hicieron montaje para afectar campaña del 2014. , -0.20000000298023224 , 0.20000000298023224
 "Las investigaciones lo han señalado, lo hemos demostrado en materia judicial: lo del hacker fue obra de Santos, con complicidad de Montealegre y Echandía. ", 0.20000000298023224 , 0.20000000298023224
@@ -32,8 +32,8 @@ Colombia necesita que encontremos soluciones inmediatas de alto impacto social. 
 Propuesta: 40 mil puestos de trabajo para 30 mil jóvenes de Cali y 10 mil de Buenaventura como primer paso para transformar la realidad compleja que hoy vive Valle del Cauca. , 0.10000000149011612 , 0.10000000149011612
 ¡Felicitaciones representante @JuanDaVelez! , 0.8999999761581421 , 0.8999999761581421
 Sus triunfos nos alegran y llenan de orgullo a quienes le conocemos. , 0.8999999761581421 , 0.8999999761581421
-"Desde donde estemos sirviendo, con amor y constancia por una Colombia distinta, siempre adelante",,
-Lamento el fallecimiento de don Hernando Ramirez Jaramillo. , 0.5 , 0.5
+"Desde donde estemos sirviendo, con amor y constancia por una Colombia distinta, siempre adelante. ", 0.8999999761581421 , 0.8999999761581421
+Lamento el fallecimiento de don Hernando Ramirez Jaramillo. , -0.20000000298023224 , 0.20000000298023224
 "Destacado dirigente cafetero, reconocido líder empresarial y cívico de Risaralda. ", 0.30000001192092896 , 0.30000001192092896
 Mis condolencias para sus familiares y amigos. , 0.699999988079071 , 0.699999988079071
 "#LaBanderaComoEs: ""Que viva el sublime pendón tricolor"" Hoy #20DeJulio, Día de Independencia, pensemos en Colombia: unidad para salir adelante y regiones con oportunidades. ", 0.4000000059604645 , 0.4000000059604645
@@ -58,10 +58,10 @@ Pero que no evadan la responsabilidad operadores y encargados de cuidar a los #N
 Los invito a conectarse y a participar de este diálogo de cara al 2022. , 0.30000001192092896 , 0.30000001192092896
 "Para que el empleo crezca en Colombia necesitamos confianza, inversión, seguridad y políticas claras. ", 0.30000001192092896 , 0.30000001192092896
 "Nuestro país tiene que producir para exportar, con empleo digno y bien remunerado, con oportunidad de crecimiento diario. ", 0.5 , 0.5
-¡Transformar productivamente a nuestra sociedad! , 0.5 , 0.5
+¡Transformar productivamente a nuestra sociedad!. , 0.5 , 0.5
 Dolorosa denuncia de abuso contra 13 niños en Medellín. , -0.4000000059604645 , 0.4000000059604645
 "Me uno a petición de @YJimenez13 para que se acelere investigación, se proteja a nuestros menores y se establezcan claros protocolos de responsabilidad y atención para quienes cuidan de los menores. ", 0.5 , 0.5
-¡#TodoPorNuestrosNiños! , 0.5 , 0.5
+¡#TodoPorNuestrosNiños!. , 0.4000000059604645 , 0.4000000059604645
 "Hoy a las 5PM estaré en #ConCENTRADOS con el senador @SanValGo, hablando sobre lo que viene para el 2022, los retos para el país y la defensa de nuestra democracia. ", 0.20000000298023224 , 0.20000000298023224
 #EnVivo hablando con @FlondonoHoyos en el programa La Tarde de @Horadelaverdad sobre los grandes temas nacionales. , 0.20000000298023224 , 0.20000000298023224
 En @HoraDeLaVerdad: Me siento reivindicado y con muchas ganas de aportarle al país: Colombia enfrenta la peor crisis debido a la pandemia. , -0.4000000059604645 , 0.4000000059604645
@@ -85,8 +85,8 @@ Pensemos en el país. , 0.30000001192092896 , 0.30000001192092896
 "Yo quiero contribuir con mi experiencia y conocimiento, a unir, está en juego el país que queremos. ", 0.5 , 0.5
 "Es un propósito superior, ya vendrá el momento político. ", 0.5 , 0.5
 "Los invito a conectarse al Space, donde conversaré con @JBagBam, @Ghitis y @MillerSoto sobre temas actuales del país y cómo debemos trabajar todos unidos. ", 0.20000000298023224 , 0.20000000298023224
-"Colombia merece que trabajemos en reformas estructurales: - Red de Protección Social - Reforma Laboral - Transformación Digital - Gobierno orientado al ciudadano, desde las regiones - Educación con opción para generar ingreso - Desarrollo sostenible - Transformación productiva",,
-"Yo no puedo entender cómo hoy no hay una respuesta ejemplarizante de la JEP, una sanción, sobre aquellos que secuestraron menores y los reclutaron. ", -0.20000000298023224 , 0.20000000298023224
+"Colombia merece que trabajemos en reformas estructurales: - Red de Protección Social - Reforma Laboral - Transformación Digital - Gobierno orientado al ciudadano, desde las regiones - Educación con opción para generar ingreso - Desarrollo sostenible - Transformación productiva. ", 0.20000000298023224 , 0.20000000298023224
+"Yo no puedo entender cómo hoy no hay una respuesta ejemplarizante de la JEP, una sanción, sobre aquellos que secuestraron menores y los reclutaron. ", -0.4000000059604645 , 0.4000000059604645
 Colombia necesita un mensaje y acción clara en ese tema. , 0.10000000149011612 , 0.10000000149011612
 "Debemos recuperar al @CeDemocratico en su esencia: a través del diálogo con ciudadanía, mediante soluciones eficientes, con mensajes claros de austeridad y confianza. ", 0.4000000059604645 , 0.4000000059604645
 Esos son los temas que hoy deben preocuparnos. , 0.0 , 0.0
@@ -101,7 +101,7 @@ En @HoraDeLaVerdad: Yo hoy quiero proponerle al país para que juntos encontremo
 Queda demostrado que lo que hicieron en el 2014 fue un montaje para afectar las elecciones presidenciales. , -0.20000000298023224 , 0.20000000298023224
 "Fueron 7 años esperando la reivindicación, hoy siento un alivio con el país: dijimos la verdad y actuamos de manera honorable - en @HoraDeLaVerdad. ", 0.800000011920929 , 0.800000011920929
 "Lo que necesita nuestro país es el empleo digno y bien remunerado y en áreas nuevas: transformación digital, servicios, respaldo a emprendedores. ", 0.4000000059604645 , 0.4000000059604645
-¡La gran prioridad de Colombia es la generación de oportunidades! , 0.8999999761581421 , 0.8999999761581421
+¡La gran prioridad de Colombia es la generación de oportunidades!. , 0.8999999761581421 , 0.8999999761581421
 Requerimos de un acuerdo sobre lo fundamental para transformar la justicia y la política. , 0.30000001192092896 , 0.30000001192092896
 "Hay que recuperar los principios de autoridad, orden y libertad. ", 0.30000001192092896 , 0.30000001192092896
 Hay que ganarle al narcotráfico e iniciar la aspersión aérea. , 0.0 , 0.0

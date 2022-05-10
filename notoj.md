@@ -17,37 +17,37 @@ Se ve que los sentimientos invocados fueron;
 ## resultados del documento completo
 
 AlfredoRamosM
-Document sentiment score: 0.0
-Document sentiment magnitude: 88.0999984741211
+Document sentiment score: 0.10000000149011612
+Document sentiment magnitude: 150.6999969482422
+
+---
 
 AlvaroUribeVel
-Document sentiment score: 0.0
-Document sentiment magnitude: 112.5999984741211
+Document sentiment score: 0.10000000149011612
+Document sentiment magnitude: 347.8999938964844
 
 IvanDuque
 Document sentiment score: 0.30000001192092896
-Document sentiment magnitude: 400.1000061035156
+Document sentiment magnitude: 474.5
 
 JOSEOBDULIO
 Document sentiment score: 0.10000000149011612
-Document sentiment magnitude: 67.0
+Document sentiment magnitude: 82.30000305175781
 
 MariaFdaCabal
 Document sentiment score: 0.10000000149011612
-Document sentiment magnitude: 568.5999755859375
+Document sentiment magnitude: 714.7000122070312
 
 mluciaramirez
 Document sentiment score: 0.30000001192092896
-Document sentiment magnitude: 589.0999755859375
+Document sentiment magnitude: 672.0999755859375
 
 OIZuluaga
 Document sentiment score: 0.30000001192092896
-Document sentiment magnitude: 45.29999923706055
+Document sentiment magnitude: 46.20000076293945
 
 PachoSantosC
 Document sentiment score: 0.30000001192092896
-Document sentiment magnitude: 99.19999694824219
+Document sentiment magnitude: 106.5
 
 
-
-Tweet	Sentiment Score	Sentiment Magnitude
