@@ -20,6 +20,15 @@ AlfredoRamosM
 Document sentiment score: 0.10000000149011612
 Document sentiment magnitude: 150.6999969482422
 
+This corpus has 1 document with 7,712 total words and 2,106 unique word forms. Created about 9 minutes ago.
+Vocabulary Density: 0.273
+Readability Index: 12.317
+Average Words Per Sentence: 15.3
+Most frequent words in the corpus: medellín (103); gerente (32); corrupción (31); públicos (30); general (23)
+
+Stéfan Sinclair and Geoffrey Rockwell, Voyant Tools, accessed May 11, 2022, https://voyant-tools.org/?stopList=keywords-0a569285ca291542a4cc86d338e27bfa&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=215aec85d0d122b3bdcb289055dd05cf.
+
+
 ---
 
 AlvaroUribeVel
