@@ -2,7 +2,6 @@
 
 ### objetivos de busqueda
 
-
 Número de Tweets
 Número de veces compartidos
 Compartieron estas noticias y comentarios
